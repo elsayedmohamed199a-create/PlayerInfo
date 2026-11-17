@@ -175,7 +175,7 @@ class Main extends PluginBase implements Listener {
                         ]
                     ]
                 ];
-            }
+            }58
 
             public function handleResponse(Player $player, $data): void {
                 // Form closed or "Close" button clicked - no additional action needed
